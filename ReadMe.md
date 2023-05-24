@@ -1,1 +1,1 @@
-# 6502 CPU Knowledge Test
+#6502 CPU Cycle Count Test
